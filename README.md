@@ -1,51 +1,48 @@
-# Hi, I'm Siva Swetha G 👋
+# 💡 Siva Swetha G 
 
-Welcome to my GitHub profile! I’m a passionate data science professional actively developing and applying my skills in data science, machine learning, and deep learning. I’m driven by the excitement of turning raw data into actionable insights and solving real-world challenges using advanced techniques. Currently, I am honing my skills in **Transformer models**, which are at the core of **Generative AI**.
+🚀 **Bridging the Gap: From Construction to AI & Data Science | Passionate About Building AI-Powered Solutions**  
+
+#### Welcome to my GitHub! 
+I am a **Data Science & AI enthusiast** with a strong foundation in **analytical thinking, stats & ML, AI and problem-solving**. My transition from the **construction industry** to AI & Data Science was driven by my passion for **data-driven decision-making** and **building AI-powered applications**.  
+
+I specialize in **Machine Learning, Deep Learning, NLP, and Generative AI**, and I love developing **real-world AI solutions** that make an impact.  
 
 ---
-## 💡 About Me
 
-With a background in **Construction Industry**, I transitioned into the field of data science to pursue my passion for problem-solving, analytics, and technology. My previous experience involved data analysis and optimization, which naturally led me to explore machine learning and deep learning.
+## 🔥 What I Do  
+- 🧠 **Machine Learning & Deep Learning** – Building intelligent models & optimizing performance  
+- 🔍 **Natural Language Processing (NLP)** – Text processing, Transformer-based models  
+- 🎯 **Recommendation Systems** – Personalized AI-driven recommendations  
+- 🤖 **Generative AI** – Transformers, RAG (Retrieval-Augmented Generation)  
+- 🛠 **End-to-End AI Applications** – AI-powered app development & deployment  
 
-Currently, I am expanding my knowledge in **Generative AI** and **Transformers**, which are at the forefront of modern AI advancements. I am always eager to learn and apply new techniques to build solutions that solve real-world challenges.
+---
 
-## 🔧 Skills & Technologies
+## 🔧 Tech Stack & Skills  
 
-Below are some of the technologies I work with:
+### 📊 **Data Science & Machine Learning**  
+✅ **Programming:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+✅ **ML Frameworks:** ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?logo=xgboost&logoColor=white)  
+✅ **Feature Engineering:** Data Cleaning, Transformation, Encoding  
+✅ **Model Evaluation:** Accuracy, Precision, Recall, ROC-AUC  
 
-### 📊 **Data Science & Machine Learning:**
+### 🤖 **Deep Learning & AI**  
+✅ **Neural Networks:** ANN, CNN, RNN, LSTM, BiLSTM  
+✅ **DL Frameworks:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)  
+✅ **Transformer Models:** BERT, GPT, RAG for NLP tasks  
 
-* Proficient in data manipulation, analysis, and visualization using:
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-FF6F61?style=flat-square&logo=seaborn&logoColor=white)
-      
-* Experienced in classical machine learning algorithms:
-    * ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-    * **Model Evaluation**: Accuracy, Precision, Recall, ROC-AUC, F1-Score
- 
-### 📚 **Deep Learning:**
+### 🔎 **NLP & Generative AI**  
+✅ **NLP Libraries:** ![NLTK](https://img.shields.io/badge/-NLTK-32A852?logo=python&logoColor=white) ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?logo=spacy&logoColor=white)  
+✅ **Text Processing:** Tokenization, POS tagging, Named Entity Recognition (NER)  
+✅ **LLMs & Generative AI:** ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFCC00?logo=huggingface&logoColor=black) GPT, Google Gemini, LangChain  
 
-* **Artificial Neural Networks (ANN)**: Hands-on experience building and training feedforward neural networks for various applications.
-* **Convolutional Neural Networks (CNN)**: Implemented CNNs for image classification and computer vision tasks.
-* **Recurrent Neural Networks (RNN)**: Experience building RNNs for sequential data tasks such as time series prediction.
-* **Long Short-Term Memory (LSTM)**: Expertise in designing LSTM networks to capture long-term dependencies in sequential data.
-* **Bidirectional LSTM**: Used Bidirectional LSTM for improved sequence processing by capturing data in both forward and backward directions.
-* **Transformer Models**: Currently learning and applying Transformer architectures to solve complex NLP tasks like text generation and translation.
-* Deep Learning frameworks used:
-    * ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-    * ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+### 🔗 **Databases & Big Data**  
+✅ **SQL Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
+✅ **NoSQL:** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+✅ **Data Visualization:** ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-00A3E0?logo=python&logoColor=white)  
 
-### 📚 **Natural Language Processing (NLP):**
+### ⚙️ **MLOps & Deployment**  
+✅ **Model Deployment:** ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white) 
+✅ **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 
-* ![NLTK](https://img.shields.io/badge/NLTK-CC7037?style=flat-square&logo=nltk&logoColor=white) &  ![spaCy](https://img.shields.io/badge/spaCy-3C7A2B?style=flat-square&logo=spacy&logoColor=white)
-* Implemented various NLP techniques for text preprocessing:
-    * Tokenization
-    * Part-of-speech tagging
-    * Named Entity Recognition (NER)
-* Currently exploring **Transformer-based models** like **BERT** and **GPT** for advanced NLP tasks.
 
-### 📊 **Data Preprocessing & Visualization:**
-
-* **Data Wrangling** with Pandas
-* ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white): Extracting and manipulating data from relational databases.
-* **Data Visualization** with:
-    * **Matplotlib** and **Seaborn** for data insights and storytelling.
